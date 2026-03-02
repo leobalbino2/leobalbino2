@@ -1,27 +1,39 @@
 ## Leonardo Balbino
 **``Software Development Student``**
 
-I’m a Software Development student at Fatec Jahu, currently focused on building strong foundations in programming, software architecture, and web development.
+<p>I’m a Software Development student at Fatec Jahu, currently focused on building strong foundations in programming, software architecture, and web development.</p>
 
-I’m working towards becoming a full-stack developer, improving both front-end and back-end skills while constantly learning new technologies and best practices.
+<p>I’m working towards becoming a full-stack developer, improving both front-end and back-end skills while constantly learning new technologies and best practices.</p>
 
-<table>
+<table align="center" width="100%" border="0">
   <tr>
-    <td align="center" width="50%">
-      <h3>Languages & Tools</h3>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,php,cs&theme=dark" />
-        </a>
-      </p>
+    <th align="center" width="33%">Languages</th>
+    <th align="center" width="33%">Tools</th>
+    <th align="center" width="33%">Databases</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+      </a>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=php,cs&theme=dark" />
+      </a>
     </td>
-    <td align="center" width="50%">
-      <h3>Databases</h3>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-        </a>
-      </p>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+      </a>
+      <br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bootstrap,nodejs&theme=dark" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+      </a>
     </td>
   </tr>
 </table>
