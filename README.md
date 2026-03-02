@@ -1,8 +1,11 @@
 ## Leonardo Balbino 
+
 <div>
     <img src="https://img.shields.io/badge/Software%20Development%20Student-007ACC?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Age-23-4CAF20?style=for-the-badge" />
 </div>
+
+</br>
 
 <p>I’m a Software Development student at Fatec Jahu, currently focused on building strong foundations in programming, software architecture, and web development.</p>
 
