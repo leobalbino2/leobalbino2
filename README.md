@@ -1,11 +1,8 @@
-## Leonardo Balbino 
+## ## About me:
+![Static Badge](https://img.shields.io/badge/Software%20Development%20Student-blue)
+![Static Badge](https://img.shields.io/badge/Age-23-orange)
 
-<div>
-    <img src="https://img.shields.io/badge/Software%20Development%20Student-007ACC?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Age-23-4CAF20?style=for-the-badge" />
-</div>
-
-</br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hello+World%2C+i'm+Leonardo!)](https://git.io/typing-svg)
 
 <p>I’m a Software Development student at Fatec Jahu, currently focused on building strong foundations in programming, software architecture, and web development.</p>
 
