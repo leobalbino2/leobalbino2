@@ -1,8 +1,18 @@
 ## ## About me:
-![Static Badge](https://img.shields.io/badge/Software%20Development%20Student-blue)
-![Static Badge](https://img.shields.io/badge/Age-23-orange)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hello+World%2C+i'm+Leonardo!)](https://git.io/typing-svg)
+</br>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&width=435&lines=Hello+World%2C+i'm+Leonardo!" />
+  </a>
+</p>
+
+<div>
+  <img src="https://img.shields.io/badge/Software%20Development%20Student-blue" />
+  <img src="https://img.shields.io/badge/Age-23-orange" />
+</div>
+</br>
 
 <p>I’m a Software Development student at Fatec Jahu, currently focused on building strong foundations in programming, software architecture, and web development.</p>
 
