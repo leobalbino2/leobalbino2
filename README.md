@@ -1,6 +1,9 @@
 ## Leonardo Balbino
+**``Software Development Student``**
 
-<p>I’m a Software Development student at Fatec Jahu, working towards becoming a full-stack developer.</p>
+I’m a Software Development student at Fatec Jahu, currently focused on building strong foundations in programming, software architecture, and web development.
+
+I’m working towards becoming a full-stack developer, improving both front-end and back-end skills while constantly learning new technologies and best practices.
 
 ### Languages & Tools
 <p align="center">
