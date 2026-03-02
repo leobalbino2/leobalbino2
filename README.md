@@ -1,8 +1,16 @@
-## Hi there 👋
+# Hi, my name is Leonardo. I’m a Software Development student at Fatec Jahu, working towards becoming a full-stack developer.
 
+## Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,mongodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs&theme=dark" />
+  </a>
+</p>
+
+## Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
   </a>
 </p>
 
