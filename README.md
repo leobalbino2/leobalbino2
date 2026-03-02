@@ -1,4 +1,6 @@
-## Hi, my name is Leonardo. I’m a Software Development student at Fatec Jahu, working towards becoming a full-stack developer.
+## Leonardo Balbino
+
+<p>I’m a Software Development student at Fatec Jahu, working towards becoming a full-stack developer.</p>
 
 ### Languages & Tools
 <p align="center">
