@@ -5,7 +5,7 @@
 ### Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs&theme=dark" />
   </a>
 </p>
 
