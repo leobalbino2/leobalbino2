@@ -8,7 +8,7 @@
 
 <p>I’m working towards becoming a full-stack developer, improving both front-end and back-end skills while constantly learning new technologies and best practices.</p>
 
-## Tech Stack
+## Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
