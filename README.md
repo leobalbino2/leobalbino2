@@ -5,19 +5,26 @@ I’m a Software Development student at Fatec Jahu, currently focused on buildin
 
 I’m working towards becoming a full-stack developer, improving both front-end and back-end skills while constantly learning new technologies and best practices.
 
-### Languages & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs&theme=dark" />
-  </a>
-</p>
-
-### Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Languages & Tools</h3>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,php,cs&theme=dark" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Databases</h3>
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!--
 **leobalbino2/leobalbino2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
